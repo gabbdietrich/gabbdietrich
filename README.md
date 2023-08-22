@@ -1,6 +1,6 @@
 
 
-### Olá! Eu sou o Gabriel Dietrich 👋
+### Hello! 👋
 
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-dietrich-2009ba234/)[![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/14TffIXvnVVgmxp2uyM9Qv)
